@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "831e0b58-da5b-4d52-8983-28755612475a"
+      }
+    },
+    "owner": "cai-blip"
   }
 }
